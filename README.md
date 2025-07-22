@@ -1,15 +1,21 @@
-Projeto Montink
+# Projeto Montink
+
 Este é o guia de instalação e configuração para o projeto Montink, desenvolvido com o framework Laravel.
 
-📋 Pré-requisitos
+# 📋 Pré-requisitos
+
 Antes de começar, certifique-se de que você tem o seguinte software instalado em sua máquina:
 
 PHP (versão ^7.4 ou superior)
+
 Composer
+
 Git
+
 Um servidor de banco de dados (MySQL, MariaDB, ou PostgreSQL)
 
 Node.js e NPM (opcional, mas recomendado para dependências de frontend)
+
 
 ⚙️ Guia de Instalação e Configuração
 Siga os passos abaixo para configurar o ambiente de desenvolvimento local.
